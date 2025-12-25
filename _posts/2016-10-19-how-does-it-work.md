@@ -99,7 +99,6 @@ Look at the documentation on github if you are interested in
 ## How do I change a password without changing my master password?
 
 That’s the purpose of the counter field in the options field set, increment it and you will get a new password.
-Counter field
 
 ## How to contribute?
 
